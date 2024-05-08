@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="Example5.java">
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example8.java" afterDir="false" />
+    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="Example8.java">
+      <change afterPath="$PROJECT_DIR$/src/lr1/Examole14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +29,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KonstantinTolmache&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6f51dc9c-91d2-4b28-9a27-330cd957d53d" />
+        <option name="url" value="https://github.com/KonstantinTolmache/java_course_2023-24.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -36,7 +54,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Examole14.executor": "Run",
     "Application.Example1.executor": "Run",
+    "Application.Example10.executor": "Run",
+    "Application.Example11.executor": "Run",
+    "Application.Example12.executor": "Run",
+    "Application.Example13.executor": "Run",
+    "Application.Example15.executor": "Run",
     "Application.Example2.executor": "Run",
     "Application.Example3.executor": "Run",
     "Application.Example4.executor": "Run",
@@ -51,9 +75,9 @@
     "onboarding.tips.debug.path": "C:/Users/kosty/IdeaProjects/java_course_2023-24/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example8">
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example4" />
+  <component name="RunManager" selected="Application.Example15">
+    <configuration name="Examole14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Examole14" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example5" />
+    <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example11" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example6" />
+    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example12" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example7" />
+    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example8" />
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example15" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example15" />
+        <item itemvalue="Application.Examole14" />
+        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.Example12" />
+        <item itemvalue="Application.Example11" />
       </list>
     </recent_temporary>
   </component>
@@ -159,12 +183,32 @@
       <option name="project" value="LOCAL" />
       <updated>1711714775019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Example8.java">
+      <option name="closed" value="true" />
+      <created>1713793197904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713793197904</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Example1" />
     <MESSAGE value="Example5.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example5.java" />
+    <MESSAGE value="Example8.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example8.java" />
   </component>
 </project>
