@@ -9,9 +9,8 @@ public class Example13 {
         int num1 = in.nextInt();
         System.out.println("Input second number: ");
         int num2 = in.nextInt();
-        int num3;
-        num3=num1 + num2;
-        System.out.println("The sum of your numbers is " + num3);
+
+        System.out.println("The sum of your numbers is " + (num1+num2));
 
         in.close();
     }
