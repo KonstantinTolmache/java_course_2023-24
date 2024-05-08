@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="Example15.java">
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/Examole14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/Example13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/Example13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/Example15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/Example15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lr1/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
-    </list>
+    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="Example15.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,32 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Examole14.executor": "Run",
-    "Application.Example1.executor": "Run",
-    "Application.Example10.executor": "Run",
-    "Application.Example11.executor": "Run",
-    "Application.Example12.executor": "Run",
-    "Application.Example13.executor": "Run",
-    "Application.Example14.executor": "Run",
-    "Application.Example15.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Example3.executor": "Run",
-    "Application.Example4.executor": "Run",
-    "Application.Example5.executor": "Run",
-    "Application.Example6.executor": "Run",
-    "Application.Example7.executor": "Run",
-    "Application.Example8.executor": "Run",
-    "Application.Example9.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/kosty/IdeaProjects/java_course_2023-24/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Examole14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kosty/IdeaProjects/java_course_2023-24/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Example9">
+}</component>
+  <component name="RunManager" selected="Application.Example15">
     <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr1.Example12" />
       <module name="java_course_2023-24" />
@@ -143,10 +136,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example15" />
         <item itemvalue="Application.Example9" />
         <item itemvalue="Application.Example14" />
         <item itemvalue="Application.Example13" />
-        <item itemvalue="Application.Example15" />
         <item itemvalue="Application.Example12" />
       </list>
     </recent_temporary>
@@ -199,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715158716276</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Example15.java">
+      <option name="closed" value="true" />
+      <created>1715176442953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715176442954</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
