@@ -9,5 +9,5 @@ public class Example14 {
     int c = in.nextInt();
         System.out.println((c-1) + " " + (c) + " " + (c+1) + " " + Math.pow(((c-1)+(c)+(c+1)),2));
         in.close();
-}
+    }
 }
