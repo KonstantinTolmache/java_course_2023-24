@@ -9,6 +9,6 @@ public class Example5 {
         int x = in.nextInt();
         int result = x / 1000;
         System.out.println("В введенном числе " + result + " тысяч");
-        }
     }
+}
 
