@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="lr3.java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
+    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="lr4.java">
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr3/Example8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +72,8 @@
     "Application.Example8.executor": "Run",
     "Application.Example9.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.lr3.Example5.executor": "Run",
+    "Application.lr3.Example7.executor": "Run",
     "Application.lr4.Example1.executor": "Run",
     "Application.lr4.Example2.executor": "Run",
     "Application.timus1001.executor": "Run",
@@ -97,52 +96,13 @@
       <recent name="lr4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example7">
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example4" />
+  <component name="RunManager" selected="Application.Example10">
+    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example10" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example5" />
-      <module name="java_course_2023-24" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
-      <module name="java_course_2023-24" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example7" />
-      <module name="java_course_2023-24" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +111,50 @@
       </method>
     </configuration>
     <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example8" />
+      <option name="MAIN_CLASS_NAME" value="lr3.Example8" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example9" />
+      <module name="java_course_2023-24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lr3.Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example5" />
+      <module name="java_course_2023-24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lr3.Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example7" />
+      <module name="java_course_2023-24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example10" />
+        <item itemvalue="Application.Example9" />
         <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.lr3.Example7" />
+        <item itemvalue="Application.lr3.Example5" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715351672867</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lr4.java">
+      <option name="closed" value="true" />
+      <created>1715432581063</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715432581063</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +305,7 @@
     <MESSAGE value="Example15.java" />
     <MESSAGE value="lr2.java" />
     <MESSAGE value="lr3.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr3.java" />
+    <MESSAGE value="lr4.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr4.java" />
   </component>
 </project>
