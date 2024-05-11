@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="lr2.java">
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr3/Example9.java" afterDir="false" />
+    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="lr3.java">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +75,8 @@
     "Application.Example8.executor": "Run",
     "Application.Example9.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.lr4.Example1.executor": "Run",
+    "Application.lr4.Example2.executor": "Run",
     "Application.timus1001.executor": "Run",
     "Application.timus_1293.Main.executor": "Run",
     "Application.timus_1293.executor": "Run",
@@ -78,19 +85,25 @@
     "Application.timus_2100.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/kosty/IdeaProjects/java_course_2023-24/src/Main.java",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example9">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example1" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lr4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example7">
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example4" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr3.*" />
+          <option name="PATTERN" value="lr4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example2" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example5" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr3.*" />
+          <option name="PATTERN" value="lr4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +125,11 @@
       </method>
     </configuration>
     <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example6" />
+      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr3.*" />
+          <option name="PATTERN" value="lr4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr3.Example9" />
+    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example7" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr3.*" />
+          <option name="PATTERN" value="lr4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timus_1409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr2.timus_1409" />
+    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr4.Example8" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr2.*" />
+          <option name="PATTERN" value="lr4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example9" />
+        <item itemvalue="Application.Example7" />
         <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.timus_1409" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example8" />
+        <item itemvalue="Application.Example4" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715341778150</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lr2.java">
+      <option name="closed" value="true" />
+      <created>1715351654474</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715351654474</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lr3.java">
+      <option name="closed" value="true" />
+      <created>1715351672867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715351672867</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +297,7 @@
     <MESSAGE value="Example8.java" />
     <MESSAGE value="Example15.java" />
     <MESSAGE value="lr2.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr2.java" />
+    <MESSAGE value="lr3.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr3.java" />
   </component>
 </project>
