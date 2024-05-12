@@ -1,11 +1,12 @@
 package lr3;
 
 import java.util.Scanner;
+
 public class Example3 {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        Scanner id = new Scanner(System.in);
         System.out.println("Ввведите количество чисел Фибоначчи\n");
-        int x = in.nextInt();
+        int x = id.nextInt();
 
         Fib.WhileFib(x);
         Fib.ForFib(x);
@@ -43,3 +44,4 @@ public class Example3 {
         }
     }
 }
+

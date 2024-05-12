@@ -1,4 +1,4 @@
-package Timus.timus_1293;
+package Timus.timusN3_1409;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
@@ -8,13 +8,13 @@ public class Main {
         Scanner in = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        int N = in.nextInt();
-        int A = in.nextInt();
-        int B = in.nextInt();
+        int a = in.nextInt();
+        int b = in.nextInt();
+        int numberOfCans = a + b - 1;
+        int harry = numberOfCans - a;
+        int larry = numberOfCans - b;
 
-        int result =(N*(A*B))*2;
-
-        out.println(result);
+        out.println(harry + " " + larry);
         out.flush();
     }
 }

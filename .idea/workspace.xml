@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="lr5.java">
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example1/MyClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example6/Main.java" afterDir="false" />
+    <list default="true" id="a718b0b6-4acc-4ff5-980d-883cf09e7e37" name="Changes" comment="lr6.java">
+      <change afterPath="$PROJECT_DIR$/src/Timus/timusN4_1785/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/timusN5_2012/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus_1293/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timus_1293/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus_1409/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timus_1409/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus_2100/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timus_2100/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus_2100/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timus_2100/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/timus_1293/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timusN1_1293/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/timus_1409/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timusN3_1409/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/timus_2100/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timusN2_2100/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus/timus_2100/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus/timusN2_2100/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr3/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr6/Example10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr6/Example10/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/IE/1XROB8YG/Fibonacci[1].java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -73,7 +76,9 @@
     "Application.Example7.executor": "Run",
     "Application.Example8.executor": "Run",
     "Application.Example9.executor": "Run",
+    "Application.Fibonaci.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.Timus.timusN5_2012.Main.executor": "Run",
     "Application.lr3.Example5.executor": "Run",
     "Application.lr3.Example7.executor": "Run",
     "Application.lr4.Example1.executor": "Run",
@@ -107,13 +112,13 @@
       <recent name="lr4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lr6.Example6.Main">
-    <configuration name="lr5.Example4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Example4.Main" />
+  <component name="RunManager" selected="Application.Timus.timusN5_2012.Main">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example3" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.Example4.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr5.Example5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Example5.Main" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr3.Example5" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.Example5.*" />
+          <option name="PATTERN" value="lr3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr5.Example6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Example6.Main" />
+    <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Fibonaci" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.Example6.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.Example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example1.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr6.Example10.Main" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.Example1.*" />
+          <option name="PATTERN" value="lr6.Example10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.Example6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example6.Main" />
+    <configuration name="Timus.timusN5_2012.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.timusN5_2012.Main" />
       <module name="java_course_2023-24" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.Example6.*" />
+          <option name="PATTERN" value="Timus.timusN5_2012.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lr6.Example6.Main" />
-        <item itemvalue="Application.lr6.Example1.Main" />
-        <item itemvalue="Application.lr5.Example6.Main" />
-        <item itemvalue="Application.lr5.Example5.Main" />
-        <item itemvalue="Application.lr5.Example4.Main" />
+        <item itemvalue="Application.Timus.timusN5_2012.Main" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Fibonaci" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715499370918</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="lr6.java">
+      <option name="closed" value="true" />
+      <created>1715508793597</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715508793597</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +347,7 @@
     <MESSAGE value="lr4.java" />
     <MESSAGE value="lr3.java" />
     <MESSAGE value="lr5.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr5.java" />
+    <MESSAGE value="lr6.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr6.java" />
   </component>
 </project>
