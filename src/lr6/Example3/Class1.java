@@ -10,7 +10,7 @@ public class Class1 {
 
       Arrays.sort(nums);
 
-      int[] arrayInt = new int[5];
+      int[] arrayInt = new int[3];
 
       System.out.println("Наибольшее значение " + nums[4]);
       System.out.println("Среднее значение " + nums[2]);
