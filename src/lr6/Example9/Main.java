@@ -11,7 +11,6 @@ public class Main {
             chars[ i ] = chars[ chars.length - i - 1 ];
             chars[ chars.length - i - 1 ] =  tmp;
         }
-
     }
 
     public static void main( String[] args ) {
@@ -19,5 +18,4 @@ public class Main {
         arrayRevers( chars );
         System.out.println( Arrays.toString( chars ));
     }
-
 }
