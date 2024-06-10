@@ -1,4 +1,4 @@
-package Timus.timusN1_1293;
+package Timus.timusN14_1639;
 
 import java.io.PrintWriter;
 import java.util.Scanner;
@@ -9,13 +9,12 @@ public class Main {
         Scanner in = new Scanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
 
-        int N = in.nextInt();
-        int A = in.nextInt();
-        int B = in.nextInt();
+        int m = in.nextInt();
+        int n = in.nextInt();
 
-        int result =(N*(A*B))*2;
+        int result = (n * m) % 2;
 
-        out.println(result);
-        out.flush();
+        System.out.println((result!=0)? ("[second]=:]") : ("[:=[first]"));
+    out.flush();
     }
 }

@@ -3,18 +3,21 @@ package lr6.Example7;
 import java.util.Arrays;
 
 public class Main {
-    public static void main( String[] args ) {
-        char[] chars = { 'e', 'i', 'c', 'g', 'a', 'f' };
-        arrayRevers( chars );
-        System.out.println( Arrays.toString( chars ));
+    public static int[] retRef( char[] chars ){
+
+        int[] intArray = new int[ chars.length ];
+
+        for ( int i = 0; i < chars.length ; i++ ) {
+            intArray[ i ] = chars[ i ];
+        }
+        return intArray;
     }
 
-    public static int[] arrayRevers(char[] chars) {
+    public static void main( String[] args ) {
 
-            int[] ints = new int[chars.length];
-            for (int i = 0; i < chars.length; i++) {
-                ints[i] = Integer.parseInt(String.valueOf(chars[i]));
-            }
-            return ints;
+        char[] chars = { 'e', 'i', 'c', 'g', 'a', 'f' };
+        int[] refArray = retRef( chars );
+        System.out.println( Arrays.toString( refArray ));
+
     }
 }

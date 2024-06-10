@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        String inputFileName = "src/timus_2100/input.txt";
+        String inputFileName = "src/Timus/timusN2_2100/input.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
         int marshalAndLily = 2;
 
