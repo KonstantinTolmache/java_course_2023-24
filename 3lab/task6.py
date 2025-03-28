@@ -3,10 +3,16 @@
 # Результат вернуть в формате Boolean.
 # Ввод 0 0 1 2 3 4 5 6 7, вывод True/False
 
-numbers = input(); flag = False; clearnumbers = numbers.replace(" ", "")
-for i in clearnumbers:
-    if clearnumbers[0] == clearnumbers[1]:
-        flag = True
-print(flag)
+def has_duplicates(numbers):
+    seen = set()
+    for i in numbers:
+        if i in seen:
+            return True
+        seen.add(i)
+    return False
 
-# Работает только если повторяеся в первом, ещё и не в одну строку
+input_numbers = input()
+numbers_list = list(map(int, input_numbers.split()))
+
+result = has_duplicates(numbers_list)
+print(result)

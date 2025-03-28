@@ -3,5 +3,5 @@
 # Ввод +7 (812) 134-12-324, вывод +781213412324
 
 n = input()
-n1 = n.replace("(", ""); n2 = n1.replace(")", ""); n3 = n2.replace("-", ""); n4 = n3.replace(" ", "")
-print(n4)
+n1 = n.replace("()- ", "")
+print(n1)

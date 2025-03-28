@@ -2,5 +2,5 @@
 # Ввод кот гири док, вывод тик
 
 stroka = input()
-parts = stroka.split()
-print(parts[0][-1], parts[1][-1], parts[2][-1])
+parts = stroka.split(); new = parts[0][-1] + parts[1][-1] + parts[2][-1]
+print(new)

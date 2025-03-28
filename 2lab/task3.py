@@ -1,17 +1,16 @@
-#Рассмотрим три числа a, b и c. Упорядочим их по возрастанию.
-#Какое число будет стоять между двумя другими?
-#Ввод 1 2 3, вывод 2
+# Рассмотрим три числа a, b и c. Упорядочим их по возрастанию.
+# Какое число будет стоять между двумя другими?
+# Ввод 1 2 3, вывод 2
 
 s = input()
 
-a = b = c = None  # Инициализируем переменные a, b, c значением None
-
-current_variable = ''  # Инициализируем текущую переменную как пустую строку
+a = b = c = None
+current_variable = ''
 variable_index = 1
 
 for char in s:
     if char != ' ':
-        current_variable += char  # Добавляем символ к текущей переменной
+        current_variable += char
     else:
         if current_variable:
             if variable_index == 1:
@@ -19,13 +18,11 @@ for char in s:
             elif variable_index == 2:
                 b = int(current_variable)
             variable_index += 1
-            current_variable = ''  # Сбрасываем текущую переменную
+            current_variable = ''
 
 if current_variable:
     if variable_index == 3:
         c = int(current_variable)
-
-# Теперь у нас есть переменные abc с соответствующими значениями
 
 if a > c:
     a, c = c, a
